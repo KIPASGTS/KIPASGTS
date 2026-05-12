@@ -3,7 +3,9 @@
 
 I am a 25-year-old developer with a deep passion for exploring how things work under the hood. My journey involves everything from reverse engineering and building custom game server architectures to developing full-stack web applications and security testing tools. 
 
-I strongly leverage **AI-Assisted Development** and **Prompt Engineering** in my daily workflow to optimize code structure, accelerate problem-solving, and build complex projects more efficiently. Whether it's hooking C++ memory structs, decoding network packets, or building robust Node.js backends, I love tackling technical challenges.
+Beyond development, **I have a massive obsession with application and web security.** I love the thrill of discovering vulnerabilities—and I'll admit, I have a bit of a mischievous streak! When I successfully breach a system or find a critical flaw, I enjoy pulling off clever pranks to prove a point. Much of my free time is spent hunting for loopholes and crafting custom exploits to push the absolute limits of game servers.
+
+To keep up with complex challenges, I strongly leverage **AI-Assisted Development** and **Prompt Engineering** in my daily workflow. Whether it's hooking C++ memory structs, decoding network packets, or building robust Node.js backends, I am always ready to break things down and build them back up.
 
 <p align="left">
   <a href="https://www.youtube.com/@kipasgts" target="_blank">
@@ -20,7 +22,7 @@ I strongly leverage **AI-Assisted Development** and **Prompt Engineering** in my
 
 *   **Languages:** C++, Python 3, JavaScript (Node.js), PHP
 *   **Databases:** MySQL / Relational Database Management
-*   **Specialties:** Reverse Engineering, Memory Hooking, Network Protocol Analysis, API Development
+*   **Specialties:** Reverse Engineering, Memory Hooking, Network Protocol Analysis, API Development, Exploit Development
 *   **Workflow:** Prompt Engineering, AI-Assisted Development (Accelerated coding & debugging)
 
 <p align="left">
@@ -87,8 +89,8 @@ I strongly leverage **AI-Assisted Development** and **Prompt Engineering** in my
   <tr>
     <td align="center" width="10%"><h2>💉</h2></td>
     <td width="90%">
-      <b>In-Game Mod Menus</b><br>
-      Developed internal C++ injected mod menus for various games, utilizing memory hooking and custom UI frameworks.
+      <b>In-Game Mod Menus & Exploits</b><br>
+      Developed internal C++ injected mod menus and crafted custom network exploits for various games, utilizing memory hooking and custom UI frameworks.
     </td>
   </tr>
 </table>
@@ -96,5 +98,5 @@ I strongly leverage **AI-Assisted Development** and **Prompt Engineering** in my
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Reverse+Engineering...;Analyzing+Network+Packets...;Building+Private+Servers...;Always+Learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Crafting+Server+Exploits...;Analyzing+Network+Packets...;Building+Private+Servers...;Hunting+Vulnerabilities." alt="Typing SVG" />
 </p>
