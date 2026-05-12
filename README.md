@@ -3,11 +3,14 @@
 
 I am a 25-year-old developer with a deep passion for exploring how things work under the hood. My journey involves everything from reverse engineering and building custom game server architectures to developing full-stack web applications and security testing tools. 
 
-I strongly leverage **AI-Assisted Development** and **Prompt Engineering** in my daily workflow to optimize code structure, accelerate problem-solving, and build complex projects more efficiently. Whether it's hooking C++ memory structs or building robust Node.js backends, I love tackling technical challenges.
+I strongly leverage **AI-Assisted Development** and **Prompt Engineering** in my daily workflow to optimize code structure, accelerate problem-solving, and build complex projects more efficiently. Whether it's hooking C++ memory structs, decoding network packets, or building robust Node.js backends, I love tackling technical challenges.
 
 <p align="left">
   <a href="https://www.youtube.com/@kipasgts" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://dsc.gg/sikipas" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Community" />
   </a>
 </p>
 
@@ -27,6 +30,25 @@ I strongly leverage **AI-Assisted Development** and **Prompt Engineering** in my
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/AI_Prompting-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+</p>
+
+---
+
+## 🧰 Tools & Software
+
+*   **Development & Ops:** VS Code (IDE), Termius (Server Terminal & SSH)
+*   **Reverse Engineering:** IDA Pro (Disassembler/Debugger), HxD Editor (Hex Editor)
+*   **Network & Security Analysis:** Burp Suite, Proxyman, ProxyPin, mitmproxy
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Termius-2B2D38?style=for-the-badge&logo=termius&logoColor=white" alt="Termius" />
+  <img src="https://img.shields.io/badge/IDA_Pro-172554?style=for-the-badge" alt="IDA Pro" />
+  <img src="https://img.shields.io/badge/HxD_Editor-00509E?style=for-the-badge" alt="HxD Editor" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Proxyman-FFB81C?style=for-the-badge" alt="Proxyman" />
+  <img src="https://img.shields.io/badge/ProxyPin-4CAF50?style=for-the-badge" alt="ProxyPin" />
+  <img src="https://img.shields.io/badge/mitmproxy-000000?style=for-the-badge" alt="mitmproxy" />
 </p>
 
 ---
@@ -74,5 +96,5 @@ I strongly leverage **AI-Assisted Development** and **Prompt Engineering** in my
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Private+Servers...;Writing+C%2B%2B+Hooks...;Developing+Auto+Pentesters...;Always+Learning." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Reverse+Engineering...;Analyzing+Network+Packets...;Building+Private+Servers...;Always+Learning." alt="Typing SVG" />
 </p>
