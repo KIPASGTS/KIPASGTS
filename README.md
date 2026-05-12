@@ -3,7 +3,7 @@
 
 I am a 25-year-old developer with a deep passion for exploring how things work under the hood. My journey involves everything from reverse engineering and building custom game server architectures to developing full-stack web applications and security testing tools. 
 
-Beyond development, **I have a massive obsession with application and web security.** I love the thrill of discovering vulnerabilities—and I'll admit, I have a bit of a mischievous streak! When I successfully breach a system or find a critical flaw, I enjoy pulling off clever pranks to prove a point. Much of my free time is spent hunting for loopholes and crafting custom exploits to push the absolute limits of game servers.
+Beyond development, **I have a massive obsession with application and web security.** I love the thrill of discovering vulnerabilities and I'll admit, I have a bit of a mischievous streak! When I successfully breach a system or find a critical flaw, I enjoy pulling off clever pranks to prove a point. Much of my free time is spent hunting for loopholes and crafting custom exploits to push the absolute limits of game servers.
 
 To keep up with complex challenges, I strongly leverage **AI-Assisted Development** and **Prompt Engineering** in my daily workflow. Whether it's hooking C++ memory structs, decoding network packets, or building robust Node.js backends, I am always ready to break things down and build them back up.
 
