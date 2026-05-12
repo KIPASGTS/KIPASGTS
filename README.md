@@ -5,6 +5,12 @@ I am a 25-year-old developer with a deep passion for exploring how things work u
 
 I strongly leverage **AI-Assisted Development** and **Prompt Engineering** in my daily workflow to optimize code structure, accelerate problem-solving, and build complex projects more efficiently. Whether it's hooking C++ memory structs or building robust Node.js backends, I love tackling technical challenges.
 
+<p align="left">
+  <a href="https://www.youtube.com/@kipasgts" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -36,10 +42,10 @@ I strongly leverage **AI-Assisted Development** and **Prompt Engineering** in my
     </td>
   </tr>
   <tr>
-    <td align="center" width="10%"><h2>🏃</h2></td>
+    <td align="center" width="10%"><img src="https://kipasguys.club/wp-content/uploads/2024/10/kipas-guys.png" width="45" alt="KIPASGUYS"></td>
     <td width="90%">
-      <b>KIPASGUYS (Stumble Guys Private Server)</b><br>
-      Rebuilt game logic and server infrastructure to create a fully functional, custom multiplayer environment.
+      <b>KIPASGUYS (Stumble Guys Private Server + Mod Menu)</b><br>
+      A custom multiplayer private server integrated with an internal mod menu, built by reverse engineering game logic and server infrastructure.
     </td>
   </tr>
   <tr>
