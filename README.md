@@ -39,7 +39,7 @@ I have extensive experience in game modding and building custom backend infrastr
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="SIKIPAS GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KIPASGTS&show_icons=true&theme=tokyonight" alt="SIKIPAS GitHub Stats" />
 </p>
 
 <p align="center">
